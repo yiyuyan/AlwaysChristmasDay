@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="Gradle__org_javassist_javassist_3_27_0-GA">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gradle__org_javassist_javassist_3_27_0_GA</output-path>
+    <root id="root">
+      <element id="library" level="project" name="Gradle: org.javassist:javassist:3.27.0-GA" />
+    </root>
+  </artifact>
+</component>
