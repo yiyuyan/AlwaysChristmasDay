@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.acd.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "acd.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ChestRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
